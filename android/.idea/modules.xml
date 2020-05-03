@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/@react-native-community_async-storage.iml" group="ZeeatApp/@react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/ZeeatApp.iml" filepath="$PROJECT_DIR$/ZeeatApp.iml" group="ZeeatApp" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-device-info/android/android-react-native-device-info.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-device-info/android/android-react-native-device-info.iml" group="ZeeatApp/react-native-device-info" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ZeeatApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-appearance/android/react-native-appearance.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-appearance/android/react-native-appearance.iml" group="ZeeatApp/react-native-appearance" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/react-native-community_async-storage.iml" group="ZeeatApp/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/masked-view/android/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/masked-view/android/react-native-community_masked-view.iml" group="ZeeatApp/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" group="ZeeatApp/react-native-device-info" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" group="ZeeatApp/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-orientation/android/react-native-orientation.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-orientation/android/react-native-orientation.iml" group="ZeeatApp/react-native-orientation" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated.iml" group="ZeeatApp/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-restart/android/react-native-restart.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-restart/android/react-native-restart.iml" group="ZeeatApp/react-native-restart" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android/react-native-safe-area-context.iml" group="ZeeatApp/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-screens/android/react-native-screens.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-screens/android/react-native-screens.iml" group="ZeeatApp/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-shimmer/android/react-native-shimmer.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-shimmer/android/react-native-shimmer.iml" group="ZeeatApp/react-native-shimmer" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" group="ZeeatApp/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" group="ZeeatApp/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-webrtc/android/react-native-webrtc.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-webrtc/android/react-native-webrtc.iml" group="ZeeatApp/react-native-webrtc" />
+    </modules>
+  </component>
+</project>

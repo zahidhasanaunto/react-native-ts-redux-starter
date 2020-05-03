@@ -1,0 +1,1 @@
+{"ast":null,"code":"import App from\"./src/app/app.component\";export default App;","map":{"version":3,"sources":["/home/aunto/Projects/WCL/wcl-app/App.ts"],"names":[],"mappings":"AAAA,MAAA,CAAA,GAAA,+BAEA,cAAA,CAAA,GAAA","sourcesContent":["import App from './src/app/app.component';\n\nexport default App;\n"]},"metadata":{},"sourceType":"module"}
